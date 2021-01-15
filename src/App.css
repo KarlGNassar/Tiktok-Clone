@@ -9,6 +9,7 @@ html {
 }
 
 .app__videos {
+  background-color: white;
   position: relative;
   /*  */
   height: 90vh;

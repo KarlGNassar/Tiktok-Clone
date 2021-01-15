@@ -37,7 +37,7 @@
   height: 50px;
   filter: invert(1);
   position: absolute;
-  bottom: 0;
+  bottom: -10%;
   right: 20px;
 }
 
